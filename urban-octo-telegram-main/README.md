@@ -10,5 +10,7 @@ In style sheet combined benefit-lead img, benefit-brand img, benefit-cost img to
 In style sheet combined seo, orm, smm to reduce coding
 In style sheet combined seo img, orm img, smm img to reduce coding
 In style sheet combined seo h2, orm h2, smm h2 to reduce coding
+Changed margins in benefit section to reduce column box size to match content section bottom
+Moved the "SEO" section group above benefits to better organize the flow of the style sheet to match flow of html
 
 
