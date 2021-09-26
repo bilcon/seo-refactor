@@ -130,7 +130,7 @@ p {
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
-    margin-bottom: 35px;
+    margin-bottom: 20px;
     color: #ffffff;
 }
 
@@ -139,7 +139,7 @@ p {
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -149,7 +149,7 @@ p {
 .benefit-brand img,
 .benefit-cost img {
     display: block;
-    margin: 5px auto;
+    margin: 10px auto;
     max-width: 150px;
 }
 /* End of Benefits Style */
