@@ -9,8 +9,8 @@
 * Changed html language from "en-us" to "en" to broaden range of acceptance in English speaking countries.
 * Changed tab title from "website" to "Horiseon" to make the title more relateable to the site.
 * added "navagational elements" to header section making links work properly.
-* added "alt" information to images for readers/scanners capabilities to inner act with.
-* added missing id="search-engine-optimization"
+* added "Title" and "alt" information to images for readers/scanners capabilities to inner act with.
+* added missing id="search-engine-optimization" to make link work properly.
 * In style sheet combined selectors benefit-lead, benefit-brand and benefit-cost codes to reduce coding.
 * In style sheet combined selectors benefit-lead h3, benefit-brand h3 and benefit-cost h3 codes to reduce coding.
 * In style sheet combined selectors benefit-lead img, benefit-brand img and benefit-cost img codes to reduce coding.
